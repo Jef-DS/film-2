@@ -1,0 +1,10 @@
+<title>Miss Peregrine's Home for Peculiar Children<genre>Fantasy<date>28-09-2016<country>USA<director>Tim Burton
+<title>Alice in Wonderland<genre>Adventure<date>23-10-2010<country>USA<director>Tim Burton
+<title>Star Trek III: The Search for Spock<genre>Action<date>05-10-1984<country>USA<director>Leonard Nimoy
+<title>Star Trek IV: The Voyage Home<genre>Adventure<date>07-05-1987<country>USA<director>Leonard Nimoy
+<title>3 Men and a Baby<genre>Comedy<date>26-05-1988<country>USA<director>Leonard Nimoy
+<title>I Kill Giants<genre>Drama<date>09-11-2017<country>BELGIUM<director>Anders Walter
+<title>The Loft<genre>Mystery<date>15-10-2014<country>BELGIUM<director>Erik Van Looy
+<title>De zaak Alzheimer<genre>Action<date>15-10-2003<country>BELGIUM<director>Erik Van Looy
+<title>Ad Fundum<genre>Drama<date>27-04-1993<country>BELGIUM<director>Erik Van Looy
+<title>The Birds<genre>Drama<date>29-03-1963<country>USA<director>Alfred Hitchcock
